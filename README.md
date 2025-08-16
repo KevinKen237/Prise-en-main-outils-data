@@ -51,7 +51,7 @@ Les formations choisies sont **gratuites ou certifiantes selon la stratégie vis
 |-------------|----------------------------------------------|----------------|-------------|
 | Snowflake   | Key Concepts & Architecture (Level Up)       | ✅ Oui         | Terminé      |
 | Docker      | *(prévu)*                                 | ⏳             | À venir     |
-| Dataiku     | *(prévu)*                                    | ⏳             | Planifié    |
+| Dataiku     | Data preparation, ML, Data visualisation                                   | ⏳             | En cours    |
 | Databricks  | *(prévu)*                                    | ⏳             | Planifié    |
 
 ---
